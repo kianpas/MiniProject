@@ -27,4 +27,4 @@ Eclipse
 
     
 ## 이미지
-![Alt text](./image/javaw_ykJx61cHTu.jpg)
+![Alt text](/src/image/javaw_ykJx61cHTu.jpg)
